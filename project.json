@@ -1,0 +1,21 @@
+{
+  "id": 1453,
+  "title": "Renewable Energy Trainer Quiz Mode",
+  "repository_slug": "renewable-energy-trainer-quiz-mode",
+  "category": "Education",
+  "platform": "Raspberry Pi Pico W",
+  "platform_family": "python",
+  "difficulty": "Intermediate",
+  "estimated_hours": 32,
+  "connectivity": "Local only",
+  "components": [
+    "SD card",
+    "rotary encoder",
+    "current sensor"
+  ],
+  "scope": "Build a education prototype that uses SD card, rotary encoder, current sensor to present questions and record answers. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Quiz Mode demonstration with repeatable test steps",
+  "mode": "interactive_monitor",
+  "entrypoint": "src/main.py",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
